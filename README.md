@@ -8,7 +8,7 @@
 - LinkedIn: https://www.linkedin.com/in/abdelkhalek-haddany
 
 ## Summary
-t I’m a highly skilled and motivated data scientist with a passion 
+I’m a highly skilled and motivated data scientist with a passion 
 for extracting valuable insights from complex datasets. With a strong 
 educational background in the field, I’m possess a 
 deep understanding of data analysis, machine learning, and statistical 
