@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Abdelkhalek HADDANY
 
 ## Contact Information
@@ -17,7 +15,7 @@ modeling. I’m expertise extends to a wide range of data science tools and
 programming languages, including Python, SQL, and more.
 
 ## Skills
- Python (NumPy, Pandas, Scikit-learn, 
+• Python (NumPy, Pandas, Scikit-learn, 
 TensorFlow)
 • Data Visualization
 • Big Data (Hadoop)
