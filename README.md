@@ -28,7 +28,3 @@ TensorFlow)
 - Web Development (Laravel, Spring
 Boot, API, Web connectors)
 - Mobile Development (Flutter)
-
-- 🔭 I’m currently working on a machine learning and deep learning project
-- 🌱 I’m currently learning Deep Learning and Gig Data
-- 👯 I’m looking for a PFE stage in data science
