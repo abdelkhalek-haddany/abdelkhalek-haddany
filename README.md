@@ -1,4 +1,3 @@
-# Abdelkhalek HADDANY
 ![Profile Image](https://media.licdn.com/dms/image/D4D16AQHXISW_GIxnyw/profile-displaybackgroundimage-shrink_350_1400/0/1695653393442?e=1706140800&v=beta&t=gc5Z935RfYbohKwaXk4YLVYHccTkLiFPumaYbunhowc)
 
 ## Contact Information
