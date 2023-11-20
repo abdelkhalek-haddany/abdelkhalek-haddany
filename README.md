@@ -17,17 +17,17 @@ programming languages, including Python, SQL, and more.
 ## Skills
 • Python (NumPy, Pandas, Scikit-learn, 
 TensorFlow)
-• Data Visualization
-• Big Data (Hadoop)
-• Deep Learning (NNs)
-• Data Manipulation &Transformation 
-• Machine Learning and Statistics
-• Database Management
-• Web Scrapping
-• Version control (Git & GitHub)
-• Web Development (Laravel, Spring
+- Data Visualization
+- Big Data (Hadoop)
+- Deep Learning (NNs)
+- Data Manipulation &Transformation 
+- Machine Learning and Statistics
+- Database Management
+- Web Scrapping
+- Version control (Git & GitHub)
+- Web Development (Laravel, Spring
 Boot, API, Web connectors)
-• Mobile Development (Flutter)
+- Mobile Development (Flutter)
 
 - 🔭 I’m currently working on a machine learning and deep learning project
 - 🌱 I’m currently learning Deep Learning and Gig Data
