@@ -14,8 +14,8 @@
 <br>
 
 <br>
-<div align="center">
-  <pre style="text-align: start;">
+<div style="text-align:start">
+  <ul style="text-align: start;">
     💼 •Datascientist • Full-Stack Developer
     💻 Intelligent Systems programming languages • Data Analysis 
     📖 Software architecture • Distributed systems
@@ -24,7 +24,7 @@
     📱 Phone • **+212651762976**
     🌐 Website • ** https://haddany.com**
     📑 LinkedIn • **abdelkhalek@haddany.com**
-  </pre>
+  </il>
 
 </div>
         
