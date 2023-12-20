@@ -60,6 +60,8 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/-javascript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/-C-00599c?style=flat-square&logo=c%2B%2B&logoColor=Crayola" />
       <img src="https://img.shields.io/badge/-C++-787CB5?style=flat-square&logo=c%2B%2B&logoColor=Crayola" />
+      <img alt="Packagist PHP Version" src="https://img.shields.io/packagist/dependency-v/:user/:repo/:dependency">
+
     </td>
   </tr>
   <tr>
