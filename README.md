@@ -142,7 +142,7 @@ These are some of the technologies and tools that I work with:
 
 <p align="center">
 <a href="https://github.com/thahir-bah">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thahir-bah&theme=algolia#version3" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelkhalek-haddany&theme=algolia#version3" />
 </a>
 </p>
 
