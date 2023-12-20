@@ -3,7 +3,7 @@
   <img src="assets/header.png" alt="header"/>
 </p>
 <p align="center">
-<img src="[https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=2000&height=150&lines=Hello !;I'm+a+master's+student+in+Data+Analysis+and+Artificial+Intelligence.](https://media.licdn.com/dms/image/D4D16AQHXISW_GIxnyw/profile-displaybackgroundimage-shrink_350_1400/0/1695653393442?e=1706140800&v=beta&t=gc5Z935RfYbohKwaXk4YLVYHccTkLiFPumaYbunhowc)" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=2000&height=150&lines=Hello !;I'm+a+master's+student+in+Data+Analysis+and+Artificial+Intelligence" width="70%" />
 </p>
 
 
@@ -13,21 +13,17 @@
 
 <br>
 
-## Contact Information
-- Phone: +212651762976
-- Email: abdelkhalek@haddany.com
-- WebSite https://haddany.com
-- LinkedIn: https://www.linkedin.com/in/abdelkhalek-haddany
-
 <br>
 <div align="center">
   <pre style="text-align: start;">
-    💼 •IA and Data Science Engineer • Full-Stack dev
+    💼 •Datascientist • Full-Stack Developer
     💻 Intelligent Systems programming languages • Data Analysis 
     📖 Software architecture • Distributed systems
-    🎮 Music • Games • Anime • Code • Art
-    🐾 New tech • Sport & Food 🐤🐥
-    📫 Email • **thahirbah@gmail.com**
+    🐾 New tech • Travel • Sport & Food 🐤🐥
+    📫 Email • **abdelkhalek@haddany.com**
+    📱 Phone • **+212651762976**
+    🌐 Website • ** https://haddany.com**
+    📑 LinkedIn • **abdelkhalek@haddany.com**
   </pre>
 
 </div>
