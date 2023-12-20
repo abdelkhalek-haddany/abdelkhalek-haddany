@@ -16,15 +16,15 @@
 <br>
 <div style="text-align:start">
   <ul style="text-align: start;">
-    💼 •Datascientist • Full-Stack Developer
-    💻 Intelligent Systems programming languages • Data Analysis 
-    📖 Software architecture • Distributed systems
-    🐾 New tech • Travel • Sport & Food 🐤🐥
-    📫 Email • **abdelkhalek@haddany.com**
-    📱 Phone • **+212651762976**
-    🌐 Website • ** https://haddany.com**
-    📑 LinkedIn • **abdelkhalek@haddany.com**
-  </il>
+    <li>💼 •Datascientist • Full-Stack Developer</li>
+    <li>💻 Intelligent Systems programming languages • Data Analysis </li>
+    <li>📖 Software architecture • Distributed systems</li>
+    <li>🐾 New tech • Travel • Sport & Food 🐤🐥</li>
+    <li>📫 Email • **abdelkhalek@haddany.com**</li>
+    <li>📱 Phone • **+212651762976**</li>
+    <li>🌐 Website • ** https://haddany.com**</li>
+    <li>📑 LinkedIn • **abdelkhalek@haddany.com**</li>
+  </ul>
 
 </div>
         
