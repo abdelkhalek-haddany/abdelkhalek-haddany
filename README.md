@@ -72,7 +72,7 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/Laravel-black.svg?&style=flat-square&logo=laravel&logoColor=orange" />
       <img src="https://img.shields.io/badge/Spring_Boot-grey.svg?&style=flat-square&logo=spring-boot&logoColor=light-green" />
       <img src="https://img.shields.io/badge/Django-black.svg?&style=flat-square&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/Nodejs-grey.svg?&style=flat-square&logo=nodejs&logoColor=green" />
+      <img src="https://img.shields.io/badge/NodeJs-grey.svg?&style=flat-square&logo=node-js&logoColor=green" />
       <img src="https://img.shields.io/badge/Express-grey.svg?&style=flat-square&logo=express&logoColor=green" />
       <img src="https://img.shields.io/badge/Flutter-grey.svg?&style=flat-square&logo=flutter&logoColor=blue" />
       <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
