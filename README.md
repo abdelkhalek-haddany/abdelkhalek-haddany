@@ -14,19 +14,29 @@
 <br>
 
 <br>
-<div style="text-align:start">
-  <ul style="text-align: start;">
-    <li>💼 •Data Scientist • Full-Stack Developer</li>
+<!-- Personal Information -->
+<br>
+<br>
+<div style="text-align:center; padding: 20px; border-radius: 10px; background-color: #f5f5f5;">
+  <h2 style="color: #333;">👋 About Me</h2>
+  <p style="font-size: 1.1em;">Hello, I'm [Your Name], a passionate Data Scientist and Full-Stack Developer based in [Your Location]. I love exploring new technologies and building intelligent systems that make a positive impact. Currently pursuing a master's degree in Data Analysis and Artificial Intelligence.</p>
+  
+  <ul style="list-style-type: none; padding: 0;">
+    <li>💼 Data Scientist • Full-Stack Developer</li>
     <li>💻 Intelligent Systems programming languages • Data Analysis </li>
     <li>📖 Software architecture • Distributed systems</li>
     <li>🐾 New tech • Travel • Sport & Food 🐤🐥</li>
-    <li>📫 Email • abdelkhalek@haddany.com</li>
-    <li>📱 Phone • +212651762976</li>
-    <li>🌐 Website • https://haddany.com</li>
-    <li>📑 LinkedIn • abdelkhalek@haddany.com</li>
   </ul>
-
+  
+  <h3>Contact Me</h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li>📧 Email: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
+    <li>📱 Phone: +1234567890</li>
+    <li>🌐 Website: <a href="https://example.com">https://example.com</a></li>
+    <li>📑 LinkedIn: <a href="https://www.linkedin.com/in/your-profile/">Your LinkedIn Profile</a></li>
+  </ul>
 </div>
+
         
 <br>
 <br>
