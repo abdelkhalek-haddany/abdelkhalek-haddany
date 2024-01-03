@@ -141,7 +141,7 @@ These are some of the technologies and tools that I work with:
 #### :octocat:  My Github Stats
 
 <p align="center">
-<a href="https://github.com/thahir-bah">
+<a href="https://github.com/abdelkhalek-haddany">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelkhalek-haddany&theme=algolia#version3" />
 </a>
 </p>
