@@ -11,30 +11,29 @@
   <h5 align="center">console.log('Welcome to my github');</h5>
 </p>
 
-<br>
-
-<br>
 <!-- Personal Information -->
 <br>
 <br>
-<!-- Add the following link to include Font Awesome in your HTML head section -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-ez7KIvIETeR4foVQV6iJ+J6Ire5Xhv21Dz+D6k4p9h6kklfmo2mF/wb8DFO6TkwR" crossorigin="anonymous">
-
-<!-- Add the following link to include the Montserrat font in your HTML head section -->
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap">
-
-<!-- Personal Information -->
-<br>
-<div style="text-align:center; padding: 20px; border-radius: 10px; background-color: #f5f5f5; font-family: 'Montserrat', sans-serif;">
+<div style="text-align:center; padding: 20px; border-radius: 10px; background-color: #f5f5f5;">
   <h2 style="color: #333;">👋 About Me</h2>
-  <p style="font-size: 1.1em;">Hello, I'm [Your Name], a passionate <i class="fas fa-laptop-code"></i> Data Scientist and Full-Stack Developer based in [Your Location]. I love exploring new technologies and building intelligent systems that make a positive impact. Currently pursuing a master's degree in Data Analysis and Artificial Intelligence.</p>
+  <p style="font-size: 1.1em;">Hello, I'm Abdelkhalek HADDANY, a passionate Data Scientist and Full-Stack Developer based in MOROCCO. I love exploring new technologies and building intelligent systems that make a positive impact. Currently pursuing a master's degree in Data Analysis and Artificial Intelligence.</p>
   
   <ul style="list-style-type: none; padding: 0;">
-    <li><i class="fas fa-briefcase"></i> Data Scientist • Full-Stack Developer</li>
-    <li><i class="fas fa-code"></i> Intelligent Systems programming languages • Data Analysis </li>
-    <li><i class="fas fa-book"></i> Software architecture • Distributed systems</li>
-    <li><i class="fas fa-paw"></i> New tech • Travel • Sport & Food 🐤🐥</li>
+    <li>💼 Data Scientist • Full-Stack Developer</li>
+    <li>💻 Intelligent Systems programming languages • Data Analysis </li>
+    <li>📖 Software architecture • Distributed systems</li>
+    <li>🐾 New tech • Travel • Sport & Food 🐤🐥</li>
   </ul>
+  
+  <h3>Contact Me</h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li>📧 Email: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
+    <li>📱 Phone: +1234567890</li>
+    <li>🌐 Website: <a href="https://example.com">https://example.com</a></li>
+    <li>📑 LinkedIn: <a href="https://www.linkedin.com/in/your-profile/">Your LinkedIn Profile</a></li>
+  </ul>
+</div>
+
   
   <h3>Contact Me</h3>
   <ul style="list-style-type: none; padding: 0;">
