@@ -33,25 +33,11 @@
     <li>📑 LinkedIn: <a href="https://www.linkedin.com/in/your-profile/">Your LinkedIn Profile</a></li>
   </ul>
 </div>
-
-  
-  <h3>Contact Me</h3>
-  <ul style="list-style-type: none; padding: 0;">
-    <li><i class="fas fa-envelope"></i> Email: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
-    <li><i class="fas fa-phone-alt"></i> Phone: +1234567890</li>
-    <li><i class="fas fa-globe"></i> Website: <a href="https://example.com">https://example.com</a></li>
-    <li><i class="fab fa-linkedin"></i> LinkedIn: <a href="https://www.linkedin.com/in/your-profile/">Your LinkedIn Profile</a></li>
-  </ul>
-</div>
-
-
         
 <br>
 <br>
         
-        
-        
-        
+      
         
 ---
 
