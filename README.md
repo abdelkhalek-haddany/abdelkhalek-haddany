@@ -69,12 +69,12 @@ These are some of the technologies and tools that I work with:
   <tr>
     <th>Frameworks</th>
     <td>
-      <img src="https://img.shields.io/badge/Laravel-black.svg?&style=flat-square&logo=laravel&logoColor=orange" />
-      <img src="https://img.shields.io/badge/Spring_Boot-grey.svg?&style=flat-square&logo=spring-boot&logoColor=light-green" />
-      <img src="https://img.shields.io/badge/Django-black.svg?&style=flat-square&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/NodeJs-grey.svg?&style=flat-square&logo=node-js&logoColor=green" />
-      <img src="https://img.shields.io/badge/Express-grey.svg?&style=flat-square&logo=express&logoColor=green" />
-      <img src="https://img.shields.io/badge/Flutter-grey.svg?&style=flat-square&logo=flutter&logoColor=blue" />
+      <img src="https://img.shields.io/badge/Laravel-black.svg?&style=for-the-badge&logo=laravel&logoColor=orange" />
+      <img src="https://img.shields.io/badge/Spring_Boot-grey.svg?&style=for-the-badge&logo=spring-boot&logoColor=light-green" />
+      <img src="https://img.shields.io/badge/Django-black.svg?&style=for-the-badge&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/NodeJs-grey.svg?&style=for-the-badge&logo=node-js&logoColor=green" />
+      <img src="https://img.shields.io/badge/Express-grey.svg?&style=for-the-badge&logo=express&logoColor=green" />
+      <img src="https://img.shields.io/badge/Flutter-grey.svg?&style=for-the-badge&logo=flutter&logoColor=blue" />
       <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
       <img src="https://img.shields.io/badge/vue-js-green.svg?style=for-the-badge&logo=vue-js&logoColor=white" />
       <img src="https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react&logoColor=white" />
@@ -84,8 +84,8 @@ These are some of the technologies and tools that I work with:
   <tr>
     <th>Databases</th>
     <td>
-      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb" />
       <img src="https://img.shields.io/badge/Cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white" />
       <img src="https://img.shields.io/badge/Hbase-%f21287B1.svg?style=for-the-badge&logo=Hbase&logoColor=white" />
       <img src="https://img.shields.io/badge/Neo4j-%afc287B1.svg?style=for-the-badge&logo=Neo4j&logoColor=white" />
@@ -94,27 +94,27 @@ These are some of the technologies and tools that I work with:
   <tr>
     <th>Automate, Deploy, Platform & Tools</th>
     <td>
-      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
       <!-- <img src="https://img.shields.io/badge/-Jenkins-DC382D?style=flat-square&logo=jenkins&logoColor=white" /> -->
-      <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" /> 
-      <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=flat-square&logo=nginx&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
+      <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" /> 
+      <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
     </td>
   </tr>
   <tr>
     <th>Operating Systems</th>
     <td>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
-      <img src="https://img.shields.io/badge/mac%20os-000000.svg?&style=flat-square&logo=apple&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+      <img src="https://img.shields.io/badge/mac%20os-000000.svg?&stylefor-the-badge&logo=apple&logoColor=white" />
     </td>
   </tr>
   <tr>
     <th>Markup/Markdown</th>
     <td>
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white" />
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />
     </td>
   </tr>
   <tr>
