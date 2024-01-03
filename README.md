@@ -57,7 +57,7 @@ These are some of the technologies and tools that I work with:
     <th>Programming Languages</th>
     <td>
       <img src="https://img.shields.io/badge/-Python-ffff47?style=for-the-badge&logo=python" />
-      <img src="https://img.shields.io/badge/-PHP-230A0FFF?style=for-the-badge&logo=php" />
+      <img src="https://img.shields.io/badge/-PHP-grey?style=for-the-badge&logo=php" />
       <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java" />
       <img src="https://img.shields.io/badge/-javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/-C-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=Crayola" />
