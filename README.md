@@ -49,8 +49,8 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
       <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
       <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-      <img src="https://img.shields.io/badge/Hadoop-%23ffffff.svg?style=for-the-badge&logo=Hadoop&logoColor=blue" />
+      <img src="https://img.shields.io/badge/Matplotlib-%23F7931E.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hadoop-%23F7931E.svg?style=for-the-badge&logo=hadoop&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -62,19 +62,19 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/-javascript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/-C-00599c?style=flat-square&logo=c%2B%2B&logoColor=Crayola" />
       <img src="https://img.shields.io/badge/-C++-787CB5?style=flat-square&logo=c%2B%2B&logoColor=Crayola" />
-      <img src="https://img.shields.io/badge/-DART-700CB5?style=flat-square&logo=c%2B%2B&logoColor=Crayola" />
-      <img src="https://img.shields.io/badge/-SCSS-ed960b?style=flat-square&logo=c%2B%2B&logoColor=Crayola" />
+      <img src="https://img.shields.io/badge/-DART-700CB5?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/-SCSS-ed960b?style=flat-square&logo=c%2B%2B&logoColor=White" />
     </td>
   </tr>
   <tr>
     <th>Frameworks</th>
     <td>
-      <img src="https://img.shields.io/badge/Laravel-orange.svg?&style=flat-square&logo=spring-boot&logoColor=light-green" />
+      <img src="https://img.shields.io/badge/Laravel-orange.svg?&style=flat-square&logo=laravel&logoColor=orange" />
       <img src="https://img.shields.io/badge/Spring_Boot-grey.svg?&style=flat-square&logo=spring-boot&logoColor=light-green" />
-            <img src="https://img.shields.io/badge/Flutter-blue.svg?&style=flat-square&logo=spring-boot&logoColor=light-green" />
+      <img src="https://img.shields.io/badge/Flutter-blue.svg?&style=flat-square&logo=flutter&logoColor=blue" />
       <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-      <img src="https://img.shields.io/badge/vue-green.svg?style=for-the-badge&logo=angular&logoColor=white" />
-      <img src="https://img.shields.io/badge/react-light-blue.svg?style=for-the-badge&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/vue-green.svg?style=for-the-badge&logo=vue&logoColor=white" />
+      <img src="https://img.shields.io/badge/react-light-blue.svg?style=for-the-badge&logo=react&logoColor=white" />
       <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
     </td>
   </tr>
