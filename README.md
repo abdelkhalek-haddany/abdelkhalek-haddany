@@ -73,7 +73,7 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/Spring_Boot-grey.svg?&style=flat-square&logo=spring-boot&logoColor=light-green" />
       <img src="https://img.shields.io/badge/Flutter-blue.svg?&style=flat-square&logo=flutter&logoColor=blue" />
       <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-      <img src="https://img.shields.io/badge/vue-green.svg?style=for-the-badge&logo=vue&logoColor=white" />
+      <img src="https://img.shields.io/badge/vue-js-green.svg?style=for-the-badge&logo=vue-js&logoColor=white" />
       <img src="https://img.shields.io/badge/react-light-blue.svg?style=for-the-badge&logo=react&logoColor=white" />
       <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
     </td>
