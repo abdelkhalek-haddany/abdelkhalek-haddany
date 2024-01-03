@@ -50,14 +50,14 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
       <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
       <img src="https://img.shields.io/badge/Matplotlib-%9FF7931E.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hadoop-%AAF7931E.svg?style=for-the-badge&logo=hadoop&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hadoop-%23FF6F00.svg?style=for-the-badge&logo=hadoop&logoColor=white" />
     </td>
   </tr>
   <tr>
     <th>Programming Languages</th>
     <td>
       <img src="https://img.shields.io/badge/-Python-ffff47?style=flat-square&logo=python" />
-      <img src="https://img.shields.io/badge/-PHP-0b73ee?style=flat-square&logo=php" />
+      <img src="https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=php" />
       <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" />
       <img src="https://img.shields.io/badge/-javascript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/-C-00599c?style=flat-square&logo=c%2B%2B&logoColor=Crayola" />
