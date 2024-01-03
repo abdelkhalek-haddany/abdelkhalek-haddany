@@ -62,23 +62,30 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/-javascript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/-C-00599c?style=flat-square&logo=c%2B%2B&logoColor=Crayola" />
       <img src="https://img.shields.io/badge/-C++-787CB5?style=flat-square&logo=c%2B%2B&logoColor=Crayola" />
+      <img src="https://img.shields.io/badge/-DART-700CB5?style=flat-square&logo=c%2B%2B&logoColor=Crayola" />
       <img src="https://img.shields.io/badge/-SCSS-ed960b?style=flat-square&logo=c%2B%2B&logoColor=Crayola" />
     </td>
   </tr>
   <tr>
     <th>Frameworks</th>
     <td>
+      <img src="https://img.shields.io/badge/Laravel-orange.svg?&style=flat-square&logo=spring-boot&logoColor=light-green" />
       <img src="https://img.shields.io/badge/Spring_Boot-grey.svg?&style=flat-square&logo=spring-boot&logoColor=light-green" />
+            <img src="https://img.shields.io/badge/Flutter-blue.svg?&style=flat-square&logo=spring-boot&logoColor=light-green" />
       <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/vue-green.svg?style=for-the-badge&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/react-light-blue.svg?style=for-the-badge&logo=angular&logoColor=white" />
       <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
     </td>
   </tr>
   <tr>
     <th>Databases</th>
     <td>
-      <img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white" />
-      <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
+      <img src="https://img.shields.io/badge/Cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hbase-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white" />
+      <img src="https://img.shields.io/badge/Neo4j-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -89,13 +96,6 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" /> 
       <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=flat-square&logo=nginx&logoColor=white" /> 
       <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
-    </td>
-  </tr>
-  <tr>
-    <th>Testing</th>
-    <td>
-      <img src="https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white" />
-      <img src="https://img.shields.io/badge/Junit5-25A162.svg?&style=flat-square&logo=postgresql&logoColor=white" />
     </td>
   </tr>
   <tr>
