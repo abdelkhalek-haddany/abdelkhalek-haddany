@@ -49,7 +49,7 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
       <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
       <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/Matplotlib-%9FF7931E.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />
+      <img src="https://img.shields.io/badge/Matplotlib-%9FF7931E.svg?style=for-the-badge&logo=chart&logoColor=white" />
       <img src="https://img.shields.io/badge/Hadoop-%230A0FFF.svg?style=for-the-badge&logo=apache&logoColor=white" />
     </td>
   </tr>
