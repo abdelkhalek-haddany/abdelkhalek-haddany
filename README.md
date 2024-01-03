@@ -69,7 +69,7 @@ These are some of the technologies and tools that I work with:
   <tr>
     <th>Frameworks</th>
     <td>
-      <img src="https://img.shields.io/badge/Laravel-orange.svg?&style=flat-square&logo=laravel&logoColor=orange" />
+      <img src="https://img.shields.io/badge/Laravel-black.svg?&style=flat-square&logo=laravel&logoColor=orange" />
       <img src="https://img.shields.io/badge/Spring_Boot-grey.svg?&style=flat-square&logo=spring-boot&logoColor=light-green" />
       <img src="https://img.shields.io/badge/Flutter-grey.svg?&style=flat-square&logo=flutter&logoColor=blue" />
       <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
