@@ -84,8 +84,8 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
       <img src="https://img.shields.io/badge/Cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hbase-%231287B1.svg?style=for-the-badge&logo=apache-hbase&logoColor=white" />
-      <img src="https://img.shields.io/badge/Neo4j-%231287B1.svg?style=for-the-badge&logo=apache-neo4j&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hbase-%221287B1.svg?style=for-the-badge&logo=hbase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Neo4j-%201287B1.svg?style=for-the-badge&logo=neo4j&logoColor=white" />
     </td>
   </tr>
   <tr>
