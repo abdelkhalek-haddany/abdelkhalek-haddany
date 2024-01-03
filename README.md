@@ -49,8 +49,8 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
       <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
       <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/Matplotlib-%23F7931E.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hadoop-%23F7931E.svg?style=for-the-badge&logo=hadoop&logoColor=white" />
+      <img src="https://img.shields.io/badge/Matplotlib-%9FF7931E.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hadoop-%AAF7931E.svg?style=for-the-badge&logo=hadoop&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -74,7 +74,7 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/Flutter-blue.svg?&style=flat-square&logo=flutter&logoColor=blue" />
       <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
       <img src="https://img.shields.io/badge/vue-js-green.svg?style=for-the-badge&logo=vue-js&logoColor=white" />
-      <img src="https://img.shields.io/badge/react-light-blue.svg?style=for-the-badge&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react&logoColor=white" />
       <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
     </td>
   </tr>
@@ -85,7 +85,7 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
       <img src="https://img.shields.io/badge/Cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white" />
       <img src="https://img.shields.io/badge/Hbase-%f21287B1.svg?style=for-the-badge&logo=Hbase&logoColor=white" />
-      <img src="https://img.shields.io/badge/Neo4j-%fff287B1.svg?style=for-the-badge&logo=Neo4j&logoColor=white" />
+      <img src="https://img.shields.io/badge/Neo4j-%afc287B1.svg?style=for-the-badge&logo=Neo4j&logoColor=white" />
     </td>
   </tr>
   <tr>
