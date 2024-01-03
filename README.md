@@ -79,14 +79,6 @@ These are some of the technologies and tools that I work with:
     </td>
   </tr>
   <tr>
-    <th>Design</th>
-    <td>
-      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-      <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
-    </td>
-  </tr>
-  <tr>
     <th>Automate, Deploy, Platform & Tools</th>
     <td>
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
