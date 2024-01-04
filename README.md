@@ -1,5 +1,5 @@
 <samp>
-<div style="display: flex; justify-content: space-between; align-items: center; flex-direction: column; margin-top: 20px; width: 100%; text-align: center;">
+<div style="display: flex; justify-content: space-between; align-items: center; flex-direction: column; margin-top: 20px; width: 100vh; text-align: center;">
   <img style="width: 200px; height: 200px;" src="https://png.pngtree.com/png-vector/20230321/ourmid/pngtree-artificial-intelligence-blue-illustration-png-image_6654955.png?e=1706140800&v=beta&t=gc5Z935RfYbohKwaXk4YLVYHccTkLiFPumaYbunhowc" alt="header"/>
 
   <img style="width: 100px; height: 150px; margin-bottom: 30px;" src="https://png.pngtree.com/png-clipart/20230813/original/pngtree-idea-creative-electricity-electric-vector-picture-image_10541604.png?e=1706140800&v=beta&t=gc5Z935RfYbohKwaXk4YLVYHccTkLiFPumaYbunhowc" alt="header"/>
