@@ -2,10 +2,26 @@
 <p align="center">
   <img src="https://png.pngtree.com/png-vector/20230321/ourmid/pngtree-artificial-intelligence-blue-illustration-png-image_6654955.png?e=1706140800&v=beta&t=gc5Z935RfYbohKwaXk4YLVYHccTkLiFPumaYbunhowc" alt="header"/>
 </p>
-<!-- <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=2000&height=150&lines=Hello !;I'm+a+master's+student+in+Data+Analysis+and+Artificial+Intelligence" width="70%" />
-</p>
- -->
+<!-- Add a container for the six images with flex display -->
+<div style="display: flex; justify-content: space-around; align-items: center; margin-top: 20px;">
+  <!-- Image 1 -->
+  <img src=""https://png.pngtree.com/png-vector/20230321/ourmid/pngtree-artificial-intelligence-blue-illustration-png-image_6654955.png" alt="Image 1" style="width: 100px; height: 100px; border-radius: 10px;">
+
+  <!-- Image 2 -->
+  <img src=""https://png.pngtree.com/png-vector/20230321/ourmid/pngtree-artificial-intelligence-blue-illustration-png-image_6654955.png" alt="Image 2" style="width: 100px; height: 100px; border-radius: 10px;">
+
+  <!-- Image 3 -->
+  <img src=""https://png.pngtree.com/png-vector/20230321/ourmid/pngtree-artificial-intelligence-blue-illustration-png-image_6654955.png" alt="Image 3" style="width: 100px; height: 100px; border-radius: 10px;">
+
+  <!-- Image 4 -->
+  <img src=""https://png.pngtree.com/png-vector/20230321/ourmid/pngtree-artificial-intelligence-blue-illustration-png-image_6654955.png" alt="Image 4" style="width: 100px; height: 100px; border-radius: 10px;">
+
+  <!-- Image 5 -->
+  <img src=""https://png.pngtree.com/png-vector/20230321/ourmid/pngtree-artificial-intelligence-blue-illustration-png-image_6654955.png" alt="Image 5" style="width: 100px; height: 100px; border-radius: 10px;">
+
+  <!-- Image 6 -->
+  <img src=""https://png.pngtree.com/png-vector/20230321/ourmid/pngtree-artificial-intelligence-blue-illustration-png-image_6654955.png" alt="Image 6" style="width: 100px; height: 100px; border-radius: 10px;">
+</div>
 
 <p align="center">
   <h5 align="center">console.log('Welcome to my github');</h5>
