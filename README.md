@@ -1,5 +1,5 @@
 <samp>
-<p style="margin:auto; display: flex; justify-content: space-between; width: 100%;">
+<p style="margin-left:auto; margin-right:auto; display: flex; justify-content: space-between; width: 100%;">
   
   <img style="width: 200px; height: 200px;" src="https://png.pngtree.com/png-vector/20230321/ourmid/pngtree-artificial-intelligence-blue-illustration-png-image_6654955.png?e=1706140800&v=beta&t=gc5Z935RfYbohKwaXk4YLVYHccTkLiFPumaYbunhowc" alt="header"/>
 
