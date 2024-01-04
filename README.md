@@ -1,6 +1,6 @@
 <samp>
 <p align="center">
-  <img src="https://www.pngitem.com/pimgs/m/99-994607_artificial-intelligence-transparent-background-hd-png-download.png?e=1706140800&v=beta&t=gc5Z935RfYbohKwaXk4YLVYHccTkLiFPumaYbunhowc" alt="header"/>
+  <img src="https://png.pngtree.com/png-vector/20230321/ourmid/pngtree-artificial-intelligence-blue-illustration-png-image_6654955.png?e=1706140800&v=beta&t=gc5Z935RfYbohKwaXk4YLVYHccTkLiFPumaYbunhowc" alt="header"/>
 </p>
 <!-- <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=2000&height=150&lines=Hello !;I'm+a+master's+student+in+Data+Analysis+and+Artificial+Intelligence" width="70%" />
