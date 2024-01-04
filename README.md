@@ -1,10 +1,6 @@
 <samp>
 <div style="display: flex; justify-content: space-around; align-items: center; margin-top: 20px;">
   <img src="https://png.pngtree.com/png-vector/20230321/ourmid/pngtree-artificial-intelligence-blue-illustration-png-image_6654955.png?e=1706140800&v=beta&t=gc5Z935RfYbohKwaXk4YLVYHccTkLiFPumaYbunhowc" alt="header"/>
-
-    <img src="https://png.pngtree.com/png-vector/20230321/ourmid/pngtree-artificial-intelligence-blue-illustration-png-image_6654955.png?e=1706140800&v=beta&t=gc5Z935RfYbohKwaXk4YLVYHccTkLiFPumaYbunhowc" alt="header"/>
-
-      <img src="https://png.pngtree.com/png-vector/20230321/ourmid/pngtree-artificial-intelligence-blue-illustration-png-image_6654955.png?e=1706140800&v=beta&t=gc5Z935RfYbohKwaXk4YLVYHccTkLiFPumaYbunhowc" alt="header"/>
 </div>
 
 <p align="center">
