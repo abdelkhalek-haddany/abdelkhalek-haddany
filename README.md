@@ -29,10 +29,10 @@
   
   <h3>Contact Me</h3>
   <ul style="list-style-type: none; padding: 0;">
-    <li>📧 Email: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
-    <li>📱 Phone: +1234567890</li>
-    <li>🌐 Website: <a href="https://example.com">https://example.com</a></li>
-    <li>📑 LinkedIn: <a href="https://www.linkedin.com/in/your-profile/">Your LinkedIn Profile</a></li>
+    <li>📧 Email: <a href="mailto:abdelkhalek@haddany.com">abdelkhalek@haddany.com</a></li>
+    <li>📱 Phone: +212 651762976</li>
+    <li>🌐 Website: <a href="https://haddany.com">https://haddany.com</a></li>
+    <li>📑 LinkedIn: <a href="https://www.linkedin.com/in/abdelkhalek-haddany/">Abdelkhalek HADDANY</a></li>
   </ul>
 </div>
         
