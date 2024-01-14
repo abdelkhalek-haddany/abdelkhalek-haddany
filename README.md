@@ -22,7 +22,7 @@
   
   <ul style="list-style-type: none; padding: 0;">
     <li>💼 Data Scientist • Full-Stack Developer</li>
-    <li>💻 Intelligent Systems programming languages • Data Analysis </li>
+    <li>💻 Intelligent Systems • Programming languages • Data Analysis </li>
     <li>📖 Software architecture • Distributed systems</li>
     <li>🐾 New tech • Travel • Sport & Food 🐤🐥</li>
   </ul>
